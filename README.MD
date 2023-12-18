@@ -1,7 +1,20 @@
 **Bani Adam Tampubolon**
 **121140187**
 
+Hosting website tidak berjalan dengan baik, beberapa file dan program tidak dapat dieksekusi, untuk memeriksa program di rekomendasikan menggunakan `Localhost` server
+
 **Link Hosting: http://bani121140187.infinityfreeapp.com/"**
+
+Langkah-langkah untuk memeriksa program dengan localhost
+1. download file ban121140187.zip, simpan pada file `htdocs` lalu ekstrak file tersebut
+2. atur koneksi dengan database, yang berada pada folder `db`
+3. create database crud
+4. use crud
+5. lalu eksekusi program mysql yang terdapat pada folder `db`
+6. buka `http://localhost/crud`
+7. login dengan id: admin, password: admin
+8. web dapat digunakan
+
 
 Pada bagian Login username, dan password adalah sebagai berikut
 **Username: admin**
