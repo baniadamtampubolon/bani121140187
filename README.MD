@@ -1,6 +1,6 @@
 **Bani Adam Tampubolon**
 **121140187**
-
+==========================================================================================================================================
 Hosting website tidak berjalan dengan baik, beberapa file dan program tidak dapat dieksekusi, untuk memeriksa program di rekomendasikan menggunakan `Localhost` server
 
 **Link Hosting: http://bani121140187.infinityfreeapp.com/"**
@@ -19,6 +19,8 @@ Langkah-langkah untuk memeriksa program dengan localhost
 Pada bagian Login username, dan password adalah sebagai berikut
 **Username: admin**
 **Password: admin**
+==========================================================================================================================================
+
 
 Bagian 1: Client-side Programming
 1.1 membuat halaman tampilan table data penjualan gadget disertai CRUD. membuat form input dengan 5 data Menampilkan data dari server kedalam index menggunakan tag `table`
