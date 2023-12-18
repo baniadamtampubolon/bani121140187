@@ -1,6 +1,10 @@
 **Bani Adam Tampubolon**
 **121140187**
 
+Pada bagian Login username, dan password adalah sebagai berikut
+Username: admin
+Password: admin
+
 Bagian 1: Client-side Programming
 1.1 membuat halaman tampilan table data penjualan gadget disertai CRUD. membuat form input dengan 5 data Menampilkan data dari server kedalam index menggunakan tag `table`
 
